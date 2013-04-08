@@ -1,0 +1,80 @@
+					<li><a href="index.html">Home <span>...welcome</span></a></li>
+						  
+                  	      <li class="sub-menu active"><a href="index-1.html">Web <span>...our services</span></a>
+                  	         <ul class="sub-menu" style="display: none;">
+                  	          <li class="sub-menu-1"><a href="#">Web Design</a>
+								<ul class="sub-menu" style="display: none;">
+                                  <li><a href="#">Static Web Design</a></li>
+                                  <li><a href="#">Dynamic Web Design</a></li>
+                                  <li><a href="#">Ecommerce Web Design</a></li>
+                                  <li><a href="#">Custom Web Design</a></li>
+                                  <li><a href="#">Website Re-Design</a></li>
+                                </ul>
+							  </li>
+                  	          <li class="sub-menu-2"><a href="#">Web Development</a>
+                                <ul class="sub-menu" style="display: none;">
+                                  <li><a href="#">PHP Web Development</a></li>
+                                  <li><a href="#">CMS Web Development</a></li>
+                                  <li><a href="#">Web 2.0 Development</a></li>
+                                  <li><a href="#">Client side Application</a></li>
+                                  <li><a href="#">Shopping cart Development</a></li>
+                                  <li><a href="#">Web Portal Development</a></li>
+                                </ul>
+                              </li>
+                  	          <li><a href="#">Online Advertising</a></li>
+                  	          <li><a href="#">SEO Solutions</a></li>
+                  	         </ul>
+                  	      </li>
+                  	      <li><a href="index-2.html">Portfolio<span>...our work</span></a></li>
+                  	      <li><a href="index-3.html">Blog<span>...hangout</span></a></li>
+                  	      <li><a href="index-4.html">Contact<span>...for a quote</span></a></li>	
+
+
+
+ <li class="thumbnail span3">
+                  <div class="maxheight">
+                    <figure class="img-polaroid spinner"><img src="img/page-img-1.jpg" alt=""></figure>
+                    <a href="#">Book Early and Stay Late <img src="img/thumbnails-img.png"  alt=""><span></span></a>
+                  </div>
+                </li>
+                <li class="thumbnail span3">
+                  <div class="maxheight">
+                    <figure class="img-polaroid spinner"><img src="img/page-img-2.jpg" alt=""></figure>
+                    <a href="#">Make the Moment Last <img src="img/thumbnails-img.png"  alt=""><span></span></a>
+                  </div>
+                </li>
+                <li class="thumbnail span3">
+                  <div class="maxheight">
+                    <figure class="img-polaroid spinner"><img src="img/page-img-3.jpg" alt=""></figure>
+                    <a href="#">Gold Passport Exclusive <img src="img/thumbnails-img.png"  alt=""><span></span></a>
+                  </div>
+                </li>
+                <li class="thumbnail span3">
+                  <div class="maxheight">
+                    <figure class="img-polaroid spinner"><img src="img/page-img-4.jpg" alt=""></figure>
+                    <a href="#">Extra Value <img src="img/thumbnails-img.png"  alt=""><span></span></a>
+                  </div>
+                </li>
+                <li class="thumbnail span3">
+                  <div class="maxheight">
+                    <figure class="img-polaroid spinner"><img src="img/page-img-5.jpg" alt=""></figure>
+                    <a href="#">Retreats <img src="img/thumbnails-img.png"  alt=""><span></span></a>
+                  </div>
+                </li>
+
+
+			 AwqrYf9WzSgaRukr9PRepz
+			
+			
+			<div class="block-room">
+              <figure class="img-polaroid fleft">
+				<a href="img/logo.png" class="magnifier">
+			   <img src="img/logo.png" alt=""></a>
+			  </figure>
+              <div class="extra-wrap">
+                <div>
+                  <h3><a href="#">penthouse 2</a></h3>
+                  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequatvel illum dolore eu feugiat nulla facilisis.</p>
+                </div>
+              </div>
+            </div>				

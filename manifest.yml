@@ -1,0 +1,17 @@
+---
+applications:
+  .:
+    name: webm
+    framework:
+      name: php
+      info:
+        mem: 128M
+        description: PHP Application
+        exec: 
+    infra: ap-aws
+    url: ${name}.${target-base}
+    mem: 512M
+    instances: 1
+    services:
+      webm-mysql-49745:
+        type: mysql

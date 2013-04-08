@@ -1,0 +1,872 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"profile",
+				"profile-div"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"upload",
+				"upload_data"
+			],
+			[
+				"user",
+				"user-avatar"
+			],
+			[
+				"valid",
+				"valid_email"
+			],
+			[
+				"in",
+				"in"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"logged",
+				"logged_in"
+			],
+			[
+				"join",
+				"join-club"
+			],
+			[
+				"music",
+				"musicclip_"
+			],
+			[
+				"file",
+				"filenames"
+			],
+			[
+				"videoc",
+				"videoclips"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"fi",
+				"finame"
+			],
+			[
+				"video",
+				"videoclip_1"
+			],
+			[
+				"vide",
+				"videoclip_2"
+			],
+			[
+				"videoclip_",
+				"videoclip_3"
+			],
+			[
+				"v",
+				"videoclip"
+			],
+			[
+				"gallery",
+				"galleryimages_"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"image",
+				"imagename"
+			],
+			[
+				"row",
+				"row_array"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"Gallery",
+				"gallery"
+			],
+			[
+				"galler",
+				"galleryimages_1"
+			],
+			[
+				"VAR",
+				"var_dump"
+			],
+			[
+				"musicclip",
+				"musicclip_1"
+			],
+			[
+				"save",
+				"save_db"
+			],
+			[
+				"forum",
+				"forum_title"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"category_",
+				"category_id"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"topic",
+				"topic_id"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"posted",
+				"posted_id"
+			],
+			[
+				"result",
+				"result_array"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"session_s",
+				"session_destroy"
+			],
+			[
+				"pass",
+				"passwordhash"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"min",
+				"min_length"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"create",
+				"create_admin"
+			],
+			[
+				"validation",
+				"validation_errors"
+			],
+			[
+				"NULL",
+				"NULL"
+			],
+			[
+				"card",
+				"cardtype"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"Back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/home.php",
+			"settings":
+			{
+				"buffer_size": 2205,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/mhome.php",
+			"settings":
+			{
+				"buffer_size": 6273,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/includes/nav.php",
+			"settings":
+			{
+				"buffer_size": 2963,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/routes.php",
+			"settings":
+			{
+				"buffer_size": 1682,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/home_page.php",
+			"settings":
+			{
+				"buffer_size": 1998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 25394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/nivo-slider.css",
+			"settings":
+			{
+				"buffer_size": 3463,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/Dropbox/webmakci/application/config/config.php",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/wamp/www/Dropbox/documents/info (asif-M61PME-S2P's conflicted copy 2012-11-02).txt",
+		"/C/Users/Asif/Documents/scott_backup_21-03/docs/client page info.txt",
+		"/C/Users/Asif/Downloads/rakshit international.txt",
+		"/C/wamp/www/Dropbox/webmakwp/wp-config.php",
+		"/C/Users/Asif/Documents/Chums.txt",
+		"/C/wamp/www/Dropbox/webmakci/manifest.yml",
+		"/C/wamp/www/Dropbox/webmakci/application/config/database.php",
+		"/C/wamp/www/Dropbox/sofia/application/config/autoload.php",
+		"/C/wamp/www/Dropbox/sofia/application/config/database.php",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-2/database.php",
+		"/C/Users/Asif/Downloads/CodeIgniter_2.1.3/CodeIgniter_2.1.3/application/config/config.php",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Asif/Desktop/hr-mphasis.txt",
+		"/C/Users/Asif/Downloads/autoadvance/styles.css",
+		"/C/Users/Asif/Downloads/autoadvance/index.html",
+		"/C/wamp/www/Dropbox/sofia/wp-content/themes/theme1373/style.css",
+		"/C/wamp/www/Dropbox/sofia/wp-content/themes/theme1373/includes/theme-scripts.php",
+		"/C/wamp/www/Dropbox/sofia/application/config/config.php",
+		"/C/wamp/www/Dropbox/sofia/application/config/routes.php",
+		"/C/wamp/www/Dropbox/sofia/application/views/join_club_page.php",
+		"/C/wamp/www/Dropbox/sofia/wp-content/themes/theme1373/page-home.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/prelogin_page.php",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/wamp/www/Dropbox/sofia/wp-content/themes/theme1373/header.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/index.html",
+		"/C/wamp/www/Dropbox/famouswebsites/js/music.js",
+		"/C/wamp/www/Dropbox/famouswebsites/wp-content/themes/twentyeleven/editor-style.css",
+		"/C/wamp/www/Dropbox/sofia/info.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/config/config.php",
+		"/C/Python27/Lib/site-packages/django/bin/django-admin.py",
+		"/C/Python27/Scripts/django-admin.py",
+		"/C/wamp/www/Dropbox/webmaklocal/js/jquery.carouFredSel-6.1.0.js",
+		"/C/wamp/www/Dropbox/sofia/wp-content/themes/theme1373/page-club-platform.php",
+		"/C/wamp/www/Dropbox/sofia/wp-content/themes/theme1373/css/styles.css",
+		"/C/wamp/www/Dropbox/famouswebsites/application/models/mupload.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/models/madmin.php",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/underconstrcution.php",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/info.txt",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/autoadvance.js",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/jquery.pikachoose.js",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/monitter.min.js",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/script.js",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/error_log.txt",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/wamp/www/Dropbox/scholar/js/164/brws.js",
+		"/C/wamp/www/Dropbox/scholar/js/164/chat.js",
+		"/C/wamp/www/Dropbox/scholar/js/164/common.js",
+		"/C/wamp/www/Dropbox/scholar/js/164/ie.js",
+		"/C/wamp/www/Dropbox/scholar/js/164/soundcheck.js",
+		"/C/wamp/www/Dropbox/scholar/js/164/locale.js",
+		"/C/wamp/www/Dropbox/scholar/js/script.js",
+		"/C/wamp/www/Dropbox/scholar/js/jquery-1.7.2.js",
+		"/C/wamp/www/Dropbox/heathrow/AirportBooking.html",
+		"/C/wamp/www/Dropbox/heathrow/index.html",
+		"/C/wamp/www/Dropbox/heathrow/css/style.css",
+		"/C/wamp/www/Dropbox/sofia/wp-config.php",
+		"/C/wamp/www/Dropbox/sofia/index.php",
+		"/C/wamp/www/Dropbox/sofia/wp-content/themes/theme1373/page-join-club.php",
+		"/C/wamp/www/Dropbox/testdragie/main.js",
+		"/C/wamp/www/Dropbox/testdragie/uploader.php",
+		"/C/wamp/www/Dropbox/testdragie/html5uploader.js",
+		"/C/wamp/www/Dropbox/testdragie/uploader.html",
+		"/C/Users/Asif/Desktop/cover letter.txt",
+		"/C/wamp/www/Dropbox/famouswebsites/wp-config.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/config/database.php~",
+		"/C/wamp/www/Dropbox/famouswebsites/.htaccess",
+		"/C/wamp/www/Dropbox/famouswebsites/application/models/mhome.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/config/database.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/models/mdns.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/models/msupport.php",
+		"/C/wamp/www/Dropbox/famouswebsites/js/gallery.js",
+		"/C/wamp/www/Dropbox/famouswebsites/js/oldgallery.js",
+		"/C/wamp/www/Dropbox/famouswebsites/js/profile.js",
+		"/C/wamp/www/Dropbox/famouswebsites/js/showreel.js",
+		"/C/wamp/www/Dropbox/famouswebsites/js/slide.js",
+		"/C/wamp/www/Dropbox/famouswebsites/js/spin.js",
+		"/C/Users/Asif/Documents/msfurnitures_host_info.txt",
+		"/C/wamp/www/Dropbox/famouswebsites/application/controllers/upload.php",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_gallery.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_showreel.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/controllers/client.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/config/autoload.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/client_page.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/config/constants.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/config/doctypes.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/config/mimes.php~",
+		"/C/wamp/www/Dropbox/famouswebsites/application/config/mimes.php",
+		"/C/wamp/www/Dropbox/msbackend/application/config/database.php",
+		"/C/wamp/www/Dropbox/sofia/wp-content/plugins/bmi-calculator-widget/bmicalculator.php",
+		"/C/wamp/www/Dropbox/famouswebsites/wp-content/themes/eStore/header.php",
+		"/C/wamp/www/Dropbox/famouswebsites/wp-content/themes/eStore/functions.php",
+		"/C/wamp/www/Dropbox/famouswebsites/wp-content/themes/eStore/style.css",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/wamp/www/Dropbox/famouswebsites/wp-content/themes/twentyeleven/style.css",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_music.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_profile.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_homepage.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_end.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_contact.php",
+		"/C/wamp/www/Dropbox/testdragie/resources/scripts/dndimg.js",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_experience.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_review.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/upload/upload_socialinfo.php",
+		"/C/Users/Asif/Downloads/html5-dnd-example/html5-dnd-example/resources/scripts/dndimg.js",
+		"/C/Users/Asif/Downloads/html5-dnd-example/html5-dnd-example/index.html",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/slide.js",
+		"/C/wamp/www/Dropbox/testdrag/application/controllers/welcome.php",
+		"/C/Users/Asif/AppData/Local/Temp/Temp1_dropzone-master.zip/dropzone-master/downloads/dropzone.js",
+		"/C/Users/Asif/AppData/Local/Temp/Temp1_dropzone-master.zip/dropzone-master/index.js",
+		"/C/wamp/www/Dropbox/testdrag/application/views/welcome_message.php",
+		"/C/wamp/www/Dropbox/testdrag/html5uploader.js",
+		"/C/wamp/www/Dropbox/famouswebsites/files/index.php",
+		"/C/wamp/www/Dropbox/mrdevelopers/application/config/database.php",
+		"/C/wamp/www/Dropbox/mrdevelopers/application/config/config.php",
+		"/C/Users/Asif/Downloads/backup-1.26.2013_04-24-43_webmikod/public_html/MRDEVELOPERS.COM/error_log",
+		"/C/Users/Asif/Downloads/backup-1.26.2013_04-24-43_webmikod/public_html/MRDEVELOPERS.COM/index.php",
+		"/C/wamp/www/Dropbox/curriculum/.htaccess",
+		"/C/wamp/www/Dropbox/famouswebsites/wp-content/themes/twentyeleven/header.php",
+		"/C/wamp/www/Dropbox/famouswebsites/wp-content/themes/twentyeleven/js/gallery.js",
+		"/C/wamp/www/Dropbox/testdrag/index.php",
+		"/C/Users/Asif/AppData/Local/Temp/fz3temp-1/mimes.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/controllers/support.php",
+		"/C/wamp/www/Dropbox/famouswebsites/application/views/client/support/client_search.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\Dropbox\\famouswebsites\\application\\views\\client\\upload"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page",
+			"$this->input->cookie('id')",
+			"$this->session->userdata('id')",
+			"$this->input->cookie('id')",
+			"$this->session->userdata('id')",
+			"id=",
+			"id",
+			"fff",
+			"profile",
+			"description",
+			"chat",
+			"club-descr",
+			"club_desc",
+			"profile",
+			"clientid",
+			"sha1(",
+			"country",
+			"age_range",
+			"sex",
+			"description",
+			"email",
+			"last_name",
+			"first_name",
+			"user_login",
+			"ucwords",
+			"PictureGalleryThumb",
+			".png",
+			"primary",
+			"ns4",
+			"get_client_details",
+			"http://www",
+			"http://www.famouswebsites.co.uk",
+			"2083",
+			"paypal",
+			"paym",
+			"gateway",
+			"whmcs",
+			"WHMCS",
+			"whmcs",
+			"WHMCS",
+			"whmcs",
+			"WHMCS",
+			"whmcs",
+			"WHMCS",
+			"whmcs",
+			"files",
+			"videoclip",
+			"videoclips",
+			"slides",
+			"<!--[endif]-->",
+			"<!--[if !IE]-->",
+			"<![endif]>",
+			"<![if !IE]>",
+			"<![endif]>",
+			"<![if !IE]>",
+			"<![endif]>",
+			"<![if !IE]>",
+			"localhost/Dropbox/famouswebsites",
+			"www.famouswebsites.co.uk",
+			"famouswebsites.co.uk",
+			"www",
+			"get_existing_profile",
+			");\n",
+			"'galleryimages_'.$gallery_id",
+			"slides",
+			"slide",
+			"imagename",
+			"musicclips",
+			"music",
+			".clear",
+			"clear",
+			"video",
+			"next",
+			"www.famouswebsites.co.uk",
+			"famouswebsites",
+			"http://localhost/Dropbox/famouswebsites/",
+			"http://localhost/Dropbox/famouswebsites/upload/",
+			"get_existing_gallery",
+			"document.getElementById",
+			"style.display = 'none'",
+			"document.getElementById",
+			"style.display = 'none'",
+			"document.getElementById",
+			"$i",
+			"userdata",
+			");\n",
+			"$i",
+			"i",
+			"unban",
+			"banned",
+			"session_start",
+			"();\n",
+			"getclients",
+			"mp4",
+			"clients",
+			"');\n",
+			"address",
+			"inner-img",
+			"directory",
+			"hotels",
+			"abad",
+			"<p><a href=\"aboutgroup.html\">ABAD group</a>runs a chain of 11 Resorts and Hotels in Kerala India asserting its presence in Kerala's <a href=\"travel.html\">Tourism</a>and Hospitality Scenario. Six hotels are located in <a href=\"abadplaza/travelguide.html\">Cochin</a> (Ernakulam) including one at <a href=\"airporthotel/index.html\">Cochin International Airport</a> and the Resorts are located at <a href=\"coppercastle/travelguide.html\">Munnar</a>, <a href=\"lakeresort/travelguide.html\">Kumarakom</a>, <a href=\"thekkady/travelguide.html\">Thekkady,</a> <a href=\"mararibeach/travelguide.html\">Marari</a> Beach and <a href=\"harmonia/travelguide.html\">Kovalam.</a></p>",
+			"bold",
+			"nav",
+			",\n",
+			"background-image: linear-gradient(left , rgb(165,193,201) 0%, rgb(255,255,255) 50%, rgb(165,193,201) 100%);\nbackground-image: -o-linear-gradient(left , rgb(165,193,201) 0%, rgb(255,255,255) 50%, rgb(165,193,201) 100%);\nbackground-image: -moz-linear-gradient(left , rgb(165,193,201) 0%, rgb(255,255,255) 50%, rgb(165,193,201) 100%);\nbackground-image: -webkit-linear-gradient(left , rgb(165,193,201) 0%, rgb(255,255,255) 50%, rgb(165,193,201) 100%);\nbackground-image: -ms-linear-gradient(left , rgb(165,193,201) 0%, rgb(255,255,255) 50%, rgb(165,193,201) 100%);\n\nbackground-image: -webkit-gradient(\n	linear,\n	left top,\n	right top,\n	color-stop(0, rgb(165,193,201)),\n	color-stop(0.5, rgb(255,255,255)),\n	color-stop(1, rgb(165,193,201))\n);",
+			"ctio",
+			"section"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<![endif]>",
+			"<![if !IE]>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/home.php",
+					"settings":
+					{
+						"buffer_size": 2205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								611,
+								611
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 944.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/models/mhome.php",
+					"settings":
+					{
+						"buffer_size": 6273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3888.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/views/includes/nav.php",
+					"settings":
+					{
+						"buffer_size": 2963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/config/routes.php",
+					"settings":
+					{
+						"buffer_size": 1682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1565,
+								1565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/config/database.php",
+					"settings":
+					{
+						"buffer_size": 3431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2620,
+								2646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1044.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/views/home_page.php",
+					"settings":
+					{
+						"buffer_size": 1998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								474,
+								474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 25394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 23739.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/nivo-slider.css",
+					"settings":
+					{
+						"buffer_size": 3463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 377.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}
